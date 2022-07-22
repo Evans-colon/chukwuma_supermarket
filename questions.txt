@@ -1,0 +1,19 @@
+From our business problem, Our client is interested in business expansion and he needs to understand what
+variables(product, market cluster and supermarket type) could be responsible and to what extent. 
+The business question is "How might we improve sales of profitable products in supermarkets that record high sales?".
+Following the business problem above, in order to answer the question, certain questions need to be answered.
+1. Which supermarkets record high sales(percentage) and what could be the reason? could it be
+    a. The price of products in that supermarket
+    b. The goodwill of that supermarket?
+    c. The size of the supermarket
+    d. The type of supermarket. 
+    e. The locaion of the supermarket.
+2. what products are responsible for high sales in a particular supermarket? could it be because of the 
+    a. category?
+3. why the preference for that product? could it be
+    a. The retail prices which the retailers enjoy
+        a. could it be because of the location and type of the supermarket?
+    b. The fats in that product(health/religion) reason
+    c. The shelf preference/visibility by customers?
+3. Does this translate to profit/high sales?
+
